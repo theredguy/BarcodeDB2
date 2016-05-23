@@ -1,3 +1,3 @@
 # BarcodeDB2
 
-test
+Program to enter Inventory
