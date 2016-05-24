@@ -1,2 +1,2 @@
  this is a new file
-add anoth line to check pull
+add another line to check pull
